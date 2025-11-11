@@ -44,7 +44,8 @@
 
 ```bash
 # 1. Docker 이미지 빌드 및 실행
-docker compose up --build -d
+sudo docker build -t week11 .
+sudo docker run -d -p 5000:80 week11
 
 # 2. 웹 접속
 http://localhost:5000
