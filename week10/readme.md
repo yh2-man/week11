@@ -4,30 +4,30 @@
 ---
 
 ## 1. 작품주제(Subject)
--  제목:  
--  요약:  
+-  제목:  데스크톱 음성채팅 애플리케이션
+-  요약:  서로 다른 사용자와 통화 및 채팅
 
 ---
 
 ## 2. 실용적 근거(Rationale)
--  문제:  
--  근거(수치/설문/사례):  
-   기대 가치:  
+-   전세계 게이머 증가
+-   게이밍·커뮤니티 사용자 증가, 관심사 기반 커뮤니티 형성
+   기대 가치:  쉬운 의사소통
 
 ---
 
 ## 3. 핵심기능(Features)
-- 기능 1:  
-- 기능 2:  
-- 기능 3:  
+- 기능 1:  음성 및 통화 기능
+- 기능 2:  친구 기능
+- 기능 3:  통화방 만들기
 
 ---
 
 ## 4. 구현환경(Environment)
-- Front-End (프론트엔드):  
-- Back-End (백엔드): Flask (Python 3.x)  
-- Database (데이터베이스):  
-- Runtime (런타임): 로컬 / AWS EC2 / (선택) AWS ECS  
+- Front-End (프론트엔드):  Electron, React
+- Back-End (백엔드): Node.js
+- Database (데이터베이스):  PostgreSQL
+- Runtime (런타임): Render
 
 ---
 
